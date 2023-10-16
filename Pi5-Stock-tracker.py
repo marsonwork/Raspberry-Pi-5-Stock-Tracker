@@ -12,7 +12,7 @@ from email.mime.text import MIMEText
 # Function to check Raspberry Pi stock availability
 def pi_stock_availability():
     # URL of the website you want to parse
-    url_pi5 = 'https://robu.in/product/raspberry-pi-5-model-8gb/'
+    url_pi5 = 'Your Pi 5 Seller Website here'
 
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
