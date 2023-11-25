@@ -1,0 +1,5 @@
+{
+  "recipient_email": "recipient_email@example.com",
+  "subject": "Raspberry Pi 5 Availability Notification",
+  "message_body": "Hurray! Raspberry Pi 5 is in stock now. Grab it before it's gone!"
+}
