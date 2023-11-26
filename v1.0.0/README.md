@@ -1,4 +1,4 @@
-# Raspberry Pi 5 Stock Availability Notifier
+# Raspberry Pi 5 Stock Availability Notifier : v1.0.0
 
 This Python script periodically checks the stock availability of Raspberry Pi 5 on a specified seller's website. If the product is in stock, it sends a notification email using Gmail.
 
