@@ -1,4 +1,4 @@
-# Product Availability Tracker
+# Raspberry Pi 5 stock tracker: v2.0.0
 
 This Python script monitors the availability of specific Raspberry Pi 5 accessories from various sellers. It checks the stock status of the following products:
 
