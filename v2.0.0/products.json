@@ -1,0 +1,83 @@
+{
+  "Store1": {
+    "Product1": {
+      "url": "https://store1.com/product1",
+      "stock_class": "availability-class1",
+      "sent_flag": false
+    },
+    "Product2": {
+      "url": "https://store1.com/product2",
+      "stock_class": "availability-class2",
+      "sent_flag": false
+    },
+    "Product3": {
+      "url": "https://store1.com/product3",
+      "stock_class": "availability-class3",
+      "sent_flag": false
+    },
+    "Product4": {
+      "url": "https://store1.com/product4",
+      "stock_class": "availability-class4",
+      "sent_flag": false
+    },
+    "Product5": {
+      "url": "https://store1.com/product5",
+      "stock_class": "availability-class5",
+      "sent_flag": false
+    }
+  },
+  "Store2": {
+    "Product1": {
+      "url": "https://store2.com/product1",
+      "stock_class": "availability-class1",
+      "sent_flag": false
+    },
+    "Product2": {
+      "url": "https://store2.com/product2",
+      "stock_class": "availability-class2",
+      "sent_flag": false
+    },
+    "Product3": {
+      "url": "https://store2.com/product3",
+      "stock_class": "availability-class3",
+      "sent_flag": false
+    },
+    "Product4": {
+      "url": "https://store2.com/product4",
+      "stock_class": "availability-class4",
+      "sent_flag": false
+    },
+    "Product5": {
+      "url": "https://store2.com/product5",
+      "stock_class": "availability-class5",
+      "sent_flag": false
+    }
+  },
+  "Store3": {
+    "Product1": {
+      "url": "https://store3.com/product1",
+      "stock_class": "availability-class1",
+      "sent_flag": false
+    },
+    "Product2": {
+      "url": "https://store3.com/product2",
+      "stock_class": "availability-class2",
+      "sent_flag": false
+    },
+    "Product3": {
+      "url": "https://store3.com/product3",
+      "stock_class": "availability-class3",
+      "sent_flag": false
+    },
+    "Product4": {
+      "url": "https://store3.com/product4",
+      "stock_class": "availability-class4",
+      "sent_flag": false
+    },
+    "Product5": {
+      "url": "https://store3.com/product5",
+      "stock_class": "availability-class5",
+      "sent_flag": false
+    }
+  }
+}
