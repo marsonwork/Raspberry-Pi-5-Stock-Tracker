@@ -119,7 +119,7 @@ def main():
 
             print(f"{product_id} : {result}")
 
-            if result.lower() not in ["out of stock", "sold out"] and not sent_flag:
+            if result.lower() in ["in stock", "add to cart"] and not sent_flag:
                 # If the product is available, send an email notification
                 subject = f"Product Available: {product_id}"
                 body = f"The product '{product_id}' from seller '{seller}' is now available. Check it out!"
